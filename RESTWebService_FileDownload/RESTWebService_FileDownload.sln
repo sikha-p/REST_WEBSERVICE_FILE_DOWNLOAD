@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RESTWebService_FileDownload", "RESTWebService_FileDownload.csproj", "{31682011-BC48-44FF-9C6F-C6CE9442C01F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31682011-BC48-44FF-9C6F-C6CE9442C01F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31682011-BC48-44FF-9C6F-C6CE9442C01F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31682011-BC48-44FF-9C6F-C6CE9442C01F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31682011-BC48-44FF-9C6F-C6CE9442C01F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85E873BF-5FC2-4828-A9B0-2A940358B0E2}
+	EndGlobalSection
+EndGlobal
